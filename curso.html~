@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+	
+	
+	<!-- Optional theme -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">
+	
+	<!-- Latest compiled and minified JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+
+<script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+	<link rel="stylesheet" type="text/css" href="curso.css">
+
+
+<meta charset="utf-8" />
+<title>Inicio</title>
+</head>
+<body>
+<div class="navbar-wrapper">
+      <div class="container">
+
+        <nav class="navbar navbar-inverse navbar-static-top">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="index.html">ePedia</a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+              <ul class="nav navbar-nav">
+                <li><a href="#">Inicio</a></li>
+                <li class = "active" ><a href="curso.html">Curso</a></li>
+                <li><a href="#">Perfil</a></li>
+              </ul>
+            </div>
+          </div>
+        </nav>
+
+      </div>
+    </div>
+<div class="ct">
+	<div class="row">
+		<div class="col-lg-3"> <p class="autor">1° Básico</p>
+			Matemáticas<input type="checkbox"></input> <br></br>
+			Lenguaje<input type="checkbox"></input> <br></br>
+			Ciencias Naturales<input type="checkbox"></input><br></br>
+			Ciencias Sociales<input type="checkbox"></input><br></br></div>
+		<div class="col-lg-3"> <p class="autor">2° Básico</p>
+			Matemáticas<input type="checkbox"></input><br></br>
+			Lenguaje<input type="checkbox"></input><br></br>
+			Ciencias Naturales<input type="checkbox"></input><br></br>
+			Ciencias Sociales<input type="checkbox"></input><br></br></div>
+		<div class="col-lg-3"> <p class="autor">3° Básico</p>
+			Matemáticas<input type="checkbox"></input><br></br>
+			Lenguaje<input type="checkbox"></input><br></br>
+			Ciencias Naturales<input type="checkbox"></input><br></br>
+			Ciencias Sociales<input type="checkbox"></input><br></br></div>
+		<div class="col-lg-3"> <p class="autor">4° Básico</p>
+			Matemáticas<input type="checkbox"></input><br></br>
+			Lenguaje<input type="checkbox"></input><br></br>
+			Ciencias Naturales<input type="checkbox"></input><br></br>
+			Ciencias Sociales<input type="checkbox"></input><br></br></div>
+						
+		</div>
+	<div class="row">
+		<div class="col-lg-3"> <p class="autor">5° Básico</p>
+			Matemáticas<input type="checkbox"></input><br></br>
+			Lenguaje<input type="checkbox"></input><br></br>
+			Ciencias Naturales<input type="checkbox"></input><br></br>
+			Ciencias Sociales<input type="checkbox"></input><br></br></div>
+		<div class="col-lg-3"> <p class="autor">6° Básico</p>
+			Matemáticas<input type="checkbox"></input><br></br>
+			Lenguaje<input type="checkbox"></input><br></br>
+			Ciencias Naturales<input type="checkbox"></input><br></br>
+			Ciencias Sociales<input type="checkbox"></input><br></br></div>
+		<div class="col-lg-3"> <p class="autor">7° Básico</p>
+			Matemáticas<input type="checkbox"></input><br></br>
+			Lenguaje<input type="checkbox"></input><br></br>
+			Ciencias Naturales<input type="checkbox"></input><br></br>
+			Ciencias Sociales<input type="checkbox"></input><br></br></div>
+		<div class="col-lg-3"> <p class="autor">8° Básico</p>
+			Matemáticas<input type="checkbox"></input><br></br>
+			Lenguaje<input type="checkbox"></input><br></br>
+			Ciencias Naturales<input type="checkbox"></input><br></br>
+			Ciencias Sociales<input type="checkbox"></input><br></br></div>
+						
+		</div>
+	<div class="row">
+		<div class="col-lg-3"> <p class="autor">1° Medio</p>
+			Matemáticas<input type="checkbox"></input><br></br>
+			Lenguaje<input type="checkbox"></input><br></br>
+			Ciencias Naturales<input type="checkbox"></input><br></br>
+			Ciencias Sociales<input type="checkbox"></input><br></br></div>
+		<div class="col-lg-3"> <p class="autor">2° Medio</p>
+			Matemáticas<input type="checkbox"></input><br></br>
+			Lenguaje<input type="checkbox"></input><br></br>
+			Ciencias Naturales<input type="checkbox"></input><br></br>
+			Ciencias Sociales<input type="checkbox"></input><br></br></div>
+		<div class="col-lg-3"> <p class="autor">3° Medio</p>
+			Matemáticas<input type="checkbox"></input><br></br>
+			Lenguaje<input type="checkbox"></input><br></br>
+			Ciencias Naturales<input type="checkbox"></input><br></br>
+			Ciencias Sociales<input type="checkbox"></input><br></br></div>
+		<div class="col-lg-3"> <p class="autor">4° Medio</p>
+			Matemáticas<input type="checkbox"></input><br></br>
+			Lenguaje<input type="checkbox"></input><br></br>
+			Ciencias Naturales<input type="checkbox"></input><br></br>
+			Ciencias Sociales<input type="checkbox"></input><br></br></div>
+						
+		</div>
+		<div class="row"></div>
+</div> 
+</body>
+</html>

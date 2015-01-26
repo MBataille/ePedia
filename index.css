@@ -1,0 +1,46 @@
+body {
+	background-color: #BEBCF7;		
+	}
+.fila {
+	te		
+	}
+h1 {
+	font-family: Helvetica;
+	color: #140ED0;
+	font-size: 6em;	
+	font-weight: bold;
+	text-align: center;
+	}
+img {
+	padding-left: 430px;
+	}
+.first {
+	padding-top: 100px;
+	background-color: white;
+	height:  364px;
+	}
+.signup{
+	text-align: center;
+	}
+.login{
+	text-align: center;	
+	}
+.slogan {
+	text-align: center;	
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font: Helvetica;
+	font-style: oblique;
+	font-weight: lighter;
+	}
+.row {
+	text-align: center;	
+	padding-top: 20px;
+	background-color: #BEBCF7;	
+	height:  226px;
+	border-right: thin outset #928EF0;
+	}
+	.text {
+	padding-top: 10px;
+	font-size: 1.3em;		
+		}
